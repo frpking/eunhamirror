@@ -7,7 +7,7 @@ class _BotCommands:
         self.ZipMirrorCommand = 'zip'
         self.CancelMirror = 'cancel'
         self.CancelAllCommand = 'cancelall'
-        self.ListCommand = 'list'
+        self.SearchCommand = 'search'
         self.StatusCommand = 'status'
         self.AuthorizedUsersCommand = 'users'
         self.AuthorizeCommand = 'authorize'
